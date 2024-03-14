@@ -1,0 +1,40 @@
+@media (max-width: 1024px) {
+  
+ 
+ 
+ .section1 {
+    background-size: 100% 700px;
+  }
+
+  nav {
+    width: 55%;
+  }
+
+  .cardimg{width: 90%;}
+
+  .box{
+    padding: 96px 0px;
+    gap: 20px;
+  }
+
+.section3{padding: 96px 0px;}
+
+.section3texts{width: 120%;}
+
+.section3img{width: 100%;}
+
+
+.footericon{
+
+ width: 40%;
+ 
+}
+
+.footericons{
+width: 110%;
+
+}
+
+
+
+}

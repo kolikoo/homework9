@@ -1,0 +1,12 @@
+@media (max-width:637px){
+
+.section1text{
+ font-size: 30px;
+left: 50%;
+transform: translateX(-50%);
+width: 90%;
+}
+
+
+
+}
